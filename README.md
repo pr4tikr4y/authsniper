@@ -3,7 +3,7 @@
 <p align="center">
   <img src="assets/authsniper_logo.png" alt="AuthSniper Logo" width="350">
 </p>
-                                                                                                                     - pratikhere01
+                                                                                                                   
 
 AuthSniper is a lightweight toolkit to quickly assess authentication and session security for web
 applications.
