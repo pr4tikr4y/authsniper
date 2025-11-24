@@ -11,7 +11,7 @@ d88P     888  "Y88888P"      888     888    888  "Y8888P"  888    Y888 8888888 8
 
                                   【 AUTHENTICATION • SESSION • JWT 】
                                                                                                                 
-                                                                                            - Pratikhere01
+                                                                                 - pratikhere01
 
 AuthSniper is a lightweight toolkit to quickly assess **authentication** and **session security** for web applications.
 
