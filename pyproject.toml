@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "authsniper"
+version = "0.1.0"
+description = "Authentication & Session Security Toolkit for authorized offensive security testing"
+readme = "README.md"
+requires-python = ">=3.8"
+license = { text = "MIT" }
+authors = [
+  { name = "Pratik Ray" }
+]
+dependencies = [
+  "requests",
+  "PyYAML",
+  "rich",
+  "PyJWT"
+]
+
+[project.scripts]
+authsniper = "authsniper.cli:main"
+
+[project.urls]
+Homepage = "https://github.com/<your-username>/authsniper"
+Source = "https://github.com/<your-username>/authsniper"
