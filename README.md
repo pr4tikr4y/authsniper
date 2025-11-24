@@ -1,8 +1,17 @@
 # AuthSniper
 
-AuthSniper is a lightweight toolkit to quickly assess **authentication** and **session security** for web applications.
 
-> ⚠️ Use only on systems you own or are explicitly authorized to test.
+
+░░░░░░░░░░░░██╗░░  ░█████╗░██╗░░░██╗████████╗██╗░░██╗░██████╗███╗░░██╗██╗██████╗░███████╗██████╗░
+░░░░░░░░░░░░╚██╗░  ██╔══██╗██║░░░██║╚══██╔══╝██║░░██║██╔════╝████╗░██║██║██╔══██╗██╔════╝██╔══██╗
+█████╗█████╗░╚██╗  ███████║██║░░░██║░░░██║░░░███████║╚█████╗░██╔██╗██║██║██████╔╝█████╗░░██████╔╝
+╚════╝╚════╝░██╔╝  ██╔══██║██║░░░██║░░░██║░░░██╔══██║░╚═══██╗██║╚████║██║██╔═══╝░██╔══╝░░██╔══██╗
+░░░░░░░░░░░░██╔╝░  ██║░░██║╚██████╔╝░░░██║░░░██║░░██║██████╔╝██║░╚███║██║██║░░░░░███████╗██║░░██║
+░░░░░░░░░░░░╚═╝░░  ╚═╝░░╚═╝░╚═════╝░░░░╚═╝░░░╚═╝░░╚═╝╚═════╝░╚═╝░░╚══╝╚═╝╚═╝░░░░░╚══════╝╚═╝░░╚═╝
+
+                                                                                   - Pratikhere01
+
+AuthSniper is a lightweight toolkit to quickly assess **authentication** and **session security** for web applications.
 
 ## Features (v0.1)
 
