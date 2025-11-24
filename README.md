@@ -1,7 +1,7 @@
 # AuthSniper
 
                                  <p align="center">
-  <img src="assets/authsniper-logo.png" alt="AuthSniper Logo" width="350">
+  <img src="assets/authsniper_logo.png" alt="AuthSniper Logo" width="350">
 </p>
                                                                                  - pratikhere01
 
