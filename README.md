@@ -32,8 +32,8 @@ authsniper -c examples/target_example.yaml --checks jwt
 
 ## Install (dev)
 
-git clone https://github.com/<your-username>/authsniper.git
-cd authsniper
-python -m venv venv
-source venv/bin/activate  # Windows: venv\Scripts\activate
-pip install -e .
+  git clone https://github.com/<your-username>/authsniper.git
+  cd authsniper
+  python -m venv venv
+  source venv/bin/activate  # Windows: venv\Scripts\activate
+  pip install -e .
